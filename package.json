@@ -11,11 +11,15 @@
   },
   "dependencies": {
     "@webvoxel/fast-simplex-noise": "^0.0.1-a2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
     "gsap": "^3.12.5",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "three": "^0.167.0"
-    
+    "three": "^0.167.0",
+    "together-ai": "^0.10.0"
   },
   "devDependencies": {
     "@types/node": "^20.14.9",
